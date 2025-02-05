@@ -1,0 +1,7 @@
+###
+# @name session
+GET http://localhost:3000/api/auth/session
+Content-Type: application/json
+
+{
+}
